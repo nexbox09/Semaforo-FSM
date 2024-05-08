@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue May  7 23:48:54 2024
+# Process ID: 21080
+# Current directory: C:/Users/vivado/Proyecto_Final/Proyecto_Final.runs/impl_1
+# Command line: vivado.exe -log top_fsm.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_fsm.tcl -notrace
+# Log file: C:/Users/vivado/Proyecto_Final/Proyecto_Final.runs/impl_1/top_fsm.vdi
+# Journal file: C:/Users/vivado/Proyecto_Final/Proyecto_Final.runs/impl_1\vivado.jou
+# Running On: DESKTOP-JOSERAMOS, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 12635 MB
+#-----------------------------------------------------------
+source top_fsm.tcl -notrace

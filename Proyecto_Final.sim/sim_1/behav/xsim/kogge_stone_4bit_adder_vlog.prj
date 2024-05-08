@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Parcial1.srcs/sources_1/new/Amarillo.sv" \
+"../../../../Parcial1.srcs/sources_1/new/Rojo.sv" \
+"../../../../Parcial1.srcs/sources_1/new/Suma.sv" \
+"../../../../Parcial1.srcs/sources_1/new/kogge_stone_4bit_adder.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
