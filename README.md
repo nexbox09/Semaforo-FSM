@@ -25,5 +25,8 @@ El código Verilog está dividido en tres módulos principales:
 ## Más recursos
 
 Tabla de Excel: [Tabla de verdad1.xlsx](https://github.com/nexbox09/Semaforo-FSM/files/15244862/Tabla.de.verdad1.xlsx)
+
 Simulación con Logisim: 
+
+
 Vídeo de YouTube: https://youtu.be/Cxe6SorxfYg
